@@ -1,3 +1,7 @@
+/*
+John Bunk
+First test client project
+*/
 package start;
 
 public class HelloWorldSwing {

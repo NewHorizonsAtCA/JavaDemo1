@@ -1,3 +1,7 @@
+/*
+John Bunk
+First test client project
+*/
 package start;
 
 import java.io.IOException;

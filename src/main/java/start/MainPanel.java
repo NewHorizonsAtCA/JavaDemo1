@@ -1,3 +1,7 @@
+/*
+John Bunk
+First test client project
+*/
 package start;
 
 import java.awt.*;
@@ -16,7 +20,7 @@ public class MainPanel implements ActionListener, Runnable {
         JPanel aPanel = new JPanel();
         aPanel.setLayout(new BoxLayout(aPanel,BoxLayout.Y_AXIS));
 
-        //Add the ubiquitous "Hello World" label.
+        // add the main window components
         JLabel label = new JLabel("Camarillo Temperature");
         label.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));         
         label.setAlignmentX(Component.CENTER_ALIGNMENT);
